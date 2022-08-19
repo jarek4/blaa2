@@ -1,0 +1,118 @@
+ {
+     "slide1Start": "Let's start",
+     "@slide1Start":{
+         "description": "lets Start"
+     },
+     "slide1LearnFaster": "Learn new language faster.",
+     "@slide1LearnFaster":{
+        "description": "learn New Faster"
+     },
+     "slide1StoreWords": "Use the App to store and memorize new words.",
+     "@slide1StoreWords":{
+       "description": "Use to store memorize"
+    },
+    "slide1LearningProject": "This is a learning project.",
+    "@slide1LearningProject":{
+       "description": "learning project, for fun"
+    },
+    "slide1ForFun": "You can use this application for fun.",
+    "@slide1ForFun":{
+       "description": "for fun"
+    },
+    "slide2ForWork": "for work",
+    "@slide2ForWork":{
+       "description": "for work"
+    },
+    "slide2UpSkills": "up your skills",
+    "@slide2UpSkills":{
+      "description": "up skills"
+    },
+    "slide2DemoMode": "You can use the Demo mode without creating an account.",
+    "@slide2DemoMode":{
+      "description": "Demo mode without an account"
+    },
+    "slide2UseAllFunctionality": "To use all functionality, create own account and sign in.",
+    "@slide2UseAllFunctionality":{
+       "description": "to use all functionality"
+    },
+    "slide2SignIn": "Go to Settings and then Sign In or Sign Up.",
+    "@slide2SignIn":{
+      "description": "Sign In"
+    },
+    "btnNew": "new",
+    "@btnNew":{
+       "description": "new floating button"
+    },
+    "btnWord": "word",
+    "@btnWord":{
+      "description": "word floating button"
+    },
+    "category": "Category",
+    "@category":{
+       "description": "Category"
+    },
+    "clue": "Clue",
+    "@clue":{
+       "description": "Clue"
+    },
+    "favorite": "Favorite",
+    "@favorite":{
+        "description": "Favorite"
+    },
+    "cancel": "Cancel",
+    "@cancel":{
+        "description": "Cancel"
+    },
+    "submit": "Submit",
+    "@submit":{
+       "description": "submit"
+    },
+    "wordsListSearch": "Search",
+    "@wordsListSearch":{
+       "description": "Search"
+    },
+    "msgUnderDev": "This feature is under development",
+    "@msgUnderDev":{
+      "description": "under development"
+    },
+    "msgInvalid": "is invalid",
+    "@msgInvalid":{
+       "description": "is invalid"
+    },
+    "msgShortPwd": "Password is to short",
+    "@msgShortPwd":{
+       "description": "short pwd"
+    },
+    "msgSignedInAs": "You are signed in as",
+    "@msgSignedInAs":{
+        "description": "signed in as"
+    },
+    "welcome": "Welcome",
+    "@welcome":{
+       "description": "Welcome"
+    },
+    "loginWelcomeBack": "Welcome back",
+    "@loginWelcomeBack":{
+       "description": "Welcome back"
+    },
+    "loginForgotPwd": "Forgot password?",
+    "@loginForgotPwd":{
+        "description": "Forgot password?"
+    },
+    "registerNative": "Your native language",
+    "@registerNative":{
+        "description": "native language"
+    },
+    "registerLanguage": "Language You want to learn",
+    "@registerLanguage":{
+        "description": "Language to learn"
+    },
+    "registerMyLang": "My language",
+    "@registerMyLange":{
+        "description": "My language"
+    },
+    "registerWantToLearn": "I want to learn",
+    "@registerLanguage":{
+        "description": "want to learn"
+    }
+ }

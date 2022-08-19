@@ -1,0 +1,14 @@
+{
+  "category": "category",
+  "created": "2022-01-15 20:09",
+  "clue": "clue",
+  "id": 1,
+  "imageAsString": "instance.imageAsString",
+  "inNative": "inNative",
+  "inTranslation": "inTranslation",
+  "isFavorite": 1,
+  "langToLearn": null,
+  "nativeLang": "nativeLang",
+  "points": null,
+  "user": "user"
+}
